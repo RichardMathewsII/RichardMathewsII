@@ -1,17 +1,15 @@
 Hi 👋 My name is Richard Mathews II
 ===================================
 
-Applied AI Scientist
+AI/ML Engineer
 --------------------
 
-Professionally, I am an applied AI scientist in the manufacturing sector, so I build AI systems that make chemical production more sustainable and efficient. Academically, I am a graduate student at Berkeley studying for a master's in data science. Personally, I am a student of Stoicism and enjoy applying science and mathematics to the “art of living”, specifically in health.
+My career mission is to apply AI to solve complex problems that have scalable benefits for society. Currently, my ambition is to be a change agent that transforms chemical production with artificial intelligence to make plant operations safer and more efficient.
 
 * 🌍  I'm based in Houston, Texas
 * 🖥️  See my portfolio at [RichardMathewsII.com/projects](http://https://richardmathewsii.com/projects/)
-* 🚀  I'm currently working on [teaching small language models Socratic reasoning](http://https://github.com/RichardMathewsII/compositional-reasoning-finetuning)
 * 🧠  I'm learning ML systems design
-* 🤝  I'm open to collaborating on open-source LLM projects
-* ⚡  I'm obsessed with biohacking
+* 🤝  I'm open to collaborating on open-source GenAI projects
 
 ### Socials
 
